@@ -2,7 +2,7 @@ package pieza;
 
 /**
  *
- * @author ZDK
+ * @author Juan Catrileo / Javier Vergara
  */
 public class Item{
     
